@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"detect_indentation": true,
+	"draw_white_space": "all",
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Anaconda",
+		"ASP",
+		"C#",
+		"Emmet",
+		"Vintage"
+	],
+	"tab_size": 4,
+	"theme": "SoDaReloaded Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
